@@ -35,8 +35,4 @@ vscode-landing-page/
 
 ├── materials/         # additional assets and files
 
-├── old/               # previous versions\backups
-
-├── .gitignore
-
 └── README.md
