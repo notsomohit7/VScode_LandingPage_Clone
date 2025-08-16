@@ -42,6 +42,5 @@ vscode-landing-page/
 Check out some screenshots of the project:
 
 <p float="left">
-  <img src="glimpses/1.png" width="500" />
-  <img src="glimpses/2.png" width="500" />
+  <img src="glimpses/1.png" width="800" />
 </p>
