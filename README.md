@@ -1,48 +1,39 @@
-# VS Code Landing Page
+# VS Code Landing Page 💻
 
-A clean and simple landing page inspired by **Visual Studio Code** UI, built using **HTML and CSS**.  
+A **clean and minimal landing page** inspired by **Visual Studio Code** UI, built using **HTML & CSS**.  
 This project demonstrates frontend design skills by replicating VS Code’s look for practice and portfolio.
 
-## Features
+---
 
+## Features
 - Minimalistic design inspired by VS Code’s official website  
 - Header with logo and navigation links  
 - Hero section with promotional text and call-to-action buttons  
 - Static desktop layout only — **not responsive**  
-- Pure HTML and CSS with no JavaScript  
+- Pure HTML & CSS, no JavaScript  
+
+---
 
 ## Live Demo
+Check it out here: [VS Code Landing Page](https://notsomohit7.github.io/VScode_LandingPage_Clone/)
 
-Check it out here: [https://notsomohit.github.io/vscode-landing-page/](https://notsomohit7.github.io/VScode_LandingPage_Clone/)
+---
 
 ## How to Run Locally
-
 1. Clone the repository:  
    ```bash
    git clone https://github.com/notsomohit7/VScode_LandingPage_Clone.git
    cd VScode_LandingPage_Clone
-   
-2. Open the index.html file in your browser.
+## Folder Structure  
+vscode-landing-page/
 
-No additional setup needed.
-
-## folder structure
-
-vscode-landing-page/  
 ├── index.html
 
 ├── style.css
 
-├── materials/         # additional assets and files
+├── materials/         # Additional assets & files
 
 └── README.md
 
-## Glimpses of the Website
-
-Check out some screenshots of the project:
-
-<p float="left">
-  <img src="glimpses/2.png" width="800" />
-<br>
- <img src="glimpses/1.png" width="800" />
-</p>
+## here are some screenshots of the website
+<div style="display: flex; flex-direction: column; gap: 15px; overflow-x: auto;"> <img src="glimpses/2.png" width="500" alt="Desktop View 1"/> <img src="glimpses/1.png" width="500" alt="Desktop View 2"/> </div> ```
