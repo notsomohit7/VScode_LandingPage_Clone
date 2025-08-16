@@ -36,3 +36,12 @@ vscode-landing-page/
 ├── materials/         # additional assets and files
 
 └── README.md
+
+## Glimpses of the Website
+
+Check out some screenshots of the project:
+
+<p float="left">
+  <img src="glimpses/1.png" width="500" />
+  <img src="glimpses/2.png" width="500" />
+</p>
